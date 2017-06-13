@@ -1,0 +1,34 @@
+{
+  "name": "spmseajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cmd-concat": "^0.2.8",
+    "grunt-cmd-transport": "^0.5.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "^0.5.1",
+    "sea": "^1.0.2",
+    "seajs": "^3.0.2",
+    "seajs-css": "^1.0.5"
+  },
+  "dependencies": {
+    "jquery": "^1.12.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niu530454176/gruntname.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niu530454176/gruntname/issues"
+  },
+  "homepage": "https://github.com/niu530454176/gruntname#readme",
+  "description": ""
+}
